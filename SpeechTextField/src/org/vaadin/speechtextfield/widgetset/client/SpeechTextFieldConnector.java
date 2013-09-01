@@ -10,7 +10,7 @@ import com.vaadin.shared.ui.Connect;
 import org.vaadin.speechtextfield.SpeechTextField;
 
 /**
- * @author Corey Cerovsek
+ * @author Corey Cerovsek < i-Human Patients >
  */
 @SuppressWarnings("serial")
 @Connect(SpeechTextField.class)
